@@ -1,0 +1,223 @@
+{
+  "document_layout": [
+    {
+      "page_number": 1,
+      "dimensions": {
+        "width": 816,
+        "height": 1056,
+        "unit": "pixels"
+      },
+      "elements": [
+        {
+          "type": "header",
+          "content": "महाराष्ट्र गृहनिर्माण व क्षेत्रविकास प्राधिकरण\nARIKA IDEVELOPMENT AUTHORITY",
+          "bounding_box": [
+            10,
+            50,
+            420,
+            115
+          ]
+        },
+        {
+          "type": "header",
+          "content": "म्हाडा\nMHADA",
+          "bounding_box": [
+            670,
+            80,
+            800,
+            130
+          ]
+        },
+        {
+          "type": "image",
+          "bounding_box": [
+            430,
+            90,
+            650,
+            140
+          ]
+        },
+        {
+          "type": "header",
+          "content": "No. EE/BP/PMAY/A/MHADA/32-7/2024\nDated: 06 MAY 2024",
+          "bounding_box": [
+            450,
+            170,
+            800,
+            200
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "To.",
+          "bounding_box": [
+            100,
+            225,
+            130,
+            240
+          ]
+        },
+        {
+          "type": "list",
+          "content": "The Executive Engineer -- 1,\nKonkan Housing & Area Development Board,\nBandra (E), Mumbai-400 051.\n2. Arch. Anilkumar Sharma,\n601/24-A, Maitri CHS,\nBimbisar Nagar, Goregaon (E),\nMumbai-65.",
+          "bounding_box": [
+            140,
+            245,
+            420,
+            385
+          ]
+        },
+        {
+          "type": "header",
+          "content": "Office of The Ex. Eng :\nK.H.AADB\nBit\n07/05/2004\nし、\nMain",
+          "bounding_box": [
+            580,
+            245,
+            880,
+            345
+          ]
+        },
+        {
+          "type": "heading_1",
+          "content": "Sub :- Part Occupation certificate of Proposed Construction of Affordable\nHousing under Pradhan Mantri Awas Yojana at S. No. 13,\nBhandarli, Tal. & Dist Thane for Bldg No.2.3.4.5.6A.6B (Gr.+15),\nBldg No.1,(st.+15) & Bldg No.6C (Gr.+14) having 1755 EWS T/s\n& 88 LIG T/s.",
+          "bounding_box": [
+            260,
+            405,
+            900,
+            510
+          ]
+        },
+        {
+          "type": "heading_1",
+          "content": "Ref:- Ex.Engr-I/Konkan Board/ MHADA letter No.193, dtd.25/04/2023 &\nNo.74 dtd. 16/02/2024",
+          "bounding_box": [
+            260,
+            515,
+            900,
+            540
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Sir.",
+          "bounding_box": [
+            100,
+            560,
+            130,
+            575
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "With reference to above letter, this is to inform you that there is No Objection to\noccupy the Bldg No. 2,3,4,5,6A, 6B (Gr. + 15) & Bldg No.1 (St.+15) & Bldg No.6C\n(Gr.+14Floor) having total 1755 EWS tenements & 88 LIG tenements on plot bearing S.\nNo. 13. Bhandarli, Tal. & Dist Thane under Affordable Housing project of Pradhan\nMantri Awas Yojana, which is constructed & completed under the supervision of\nArchitect Shri.Anilkumar R. Sharma of M/s B.G. Shirke Const. Tech. Pvt. Ltd. (Regn.\nLic. No. CA/96/20511) and Structural Engineer Shri.Y.P. Kajale (Regn. STR/K/170)\nsubject to following conditions.",
+          "bounding_box": [
+            100,
+            590,
+            900,
+            730
+          ]
+        },
+        {
+          "type": "list",
+          "content": "1. That the final Certificate of Water Supply Department, MSEB Department &\nHealth Department shall be submitted to this office before issue of full O.C. of\nremaining Bldgs.\n2. That Final N.O.C. from Supdt. Of Garden shall be submitted to this office before\nissue of full O.C. of project.\n3. That the name of MHADA shall be included in the 7/12 or property card and the\ncopy of the same shall be submitted before issue of full O.C of subjected Bldgs. as\nundertaken by you.",
+          "bounding_box": [
+            140,
+            745,
+            900,
+            875
+          ]
+        },
+        {
+          "type": "footer",
+          "content": "गृहनिर्माण भवन, कलानगर, वांद्रे (पू), मुंबई-४०० ०५१.\nदूरध्वनी ६६४० ५०००",
+          "bounding_box": [
+            100,
+            915,
+            400,
+            945
+          ]
+        },
+        {
+          "type": "footer",
+          "content": "Griha Nirman Bhavan, Kalanagar, Bandra (East), Mumbai-400 051\nPhone: 6640 5000",
+          "bounding_box": [
+            530,
+            915,
+            900,
+            945
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "dimensions": {
+        "width": 816,
+        "height": 1056,
+        "unit": "pixels"
+      },
+      "elements": [
+        {
+          "type": "list",
+          "content": "4. That the area under GAS Pipe Line (GAIL) should be handed over to GAIL India,\nItd. and also necessary agreement shall be done with GAIL India before issue of\nfull O.C. of subjected project till then the said area should be maintained\nencroachment free by Konkan Housing & Area Development Board. Also\npermission should be given to GAIL for their Routine Inspection.\n5. That terms and condition of consent to operate certificate issued by MPCB shall\nbe followed by Konkan Board.\n6. That the 45.00m, 24.00m D.P. Road & approach road affected area should be\nhanded over to Local Authority and till handing over, the said DP roads affected\nare should be maintained encroachment free by Konkan Housing Board.\n7. That the sufficient portable drinking water shall be provided to the tenants of\ntenement allotted & also sufficient flushing water shall be provided for flushing\npurpose.\n8. That the sufficient Electric supply to all tenements should be allotted & also\ncommon area shall be provided.\n9. Disposal of S.W. drain & drainage shall be maintained properly.\n10. That this part OC is without prejudice to legal matters pending in Court of Law if\nany.\n11. Addition / alteration in the approved building plan shall not be allowed.\n12. Terms and conditions mentioned in Environmental Clearance shall be strictly\nfollowed.\n13. The periodic maintenance of Common amenities such as Water Supply, Electrical,\nMechanical & Civil shall be maintained.\n14. Terms & condition mentioned in CFO NOC shall be strictly followed.",
+          "bounding_box": [
+            100,
+            40,
+            900,
+            570
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "A set of certified completion building plans is returned herewith please.",
+          "bounding_box": [
+            100,
+            585,
+            600,
+            600
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Executive Engineer/B.P.Cell\nPMAY/ MHADA",
+          "bounding_box": [
+            600,
+            640,
+            800,
+            670
+          ]
+        },
+        {
+          "type": "heading_2",
+          "content": "Copy forwarded for favour of information :",
+          "bounding_box": [
+            100,
+            700,
+            500,
+            715
+          ]
+        },
+        {
+          "type": "list",
+          "content": "1) Chief Officer, Konkan Housing & Area Development Board, MHADA.\n2) ADTP, MMRDA, Bandra Kurla Complex, Mumbai-400 051\n3) Chief I.C.T. Officer, MHADA for information & to be uploaded on official MHADA website.\n4) Executive Engineer-II/PMAY/MHADA/A, for information",
+          "bounding_box": [
+            100,
+            730,
+            700,
+            800
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Sd/-\nExecutive Engineer/B.P.Cell\nPMAY/ MHADA",
+          "bounding_box": [
+            600,
+            830,
+            800,
+            870
+          ]
+        }
+      ]
+    }
+  ]
+}
